@@ -1,0 +1,40 @@
+.main{
+    width: 700px;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    font-family: Avro, Arial;
+    font-size: 20px;
+    
+
+  }
+  
+  
+  
+  .sidebar{
+    display: grid;
+    grid-template-columns: 200px 1fr ;
+
+  }
+
+  .foto{
+    vertical-align: top;
+    margin-bottom: 5px;
+  }
+
+  .pic{
+    max-width: 100%;
+  }
+  
+  .for-me {
+    font-size: 18px;
+    font-family: Avro, Arial;
+    margin-left: 16px;
+    
+
+    display: block;
+    width: 450px;
+    
+  }
+
+ 
